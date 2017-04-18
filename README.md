@@ -1,7 +1,10 @@
-# test coverage for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json2csv.svg)](https://travis-ci.org/npmtest/node-npmtest-json2csv)
+# npmtest-json2csv
+
+#### test coverage for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json2csv.svg)](https://travis-ci.org/npmtest/node-npmtest-json2csv)
+
 #### Convert JSON to CSV
 
-[![NPM](https://nodei.co/npm/json2csv.png?downloads=true)](https://www.npmjs.com/package/json2csv)
+[![NPM](https://nodei.co/npm/json2csv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json2csv)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-json2csv/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json2csv/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json2csv/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-json2csv/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-json2csv/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-json2csv%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-json2csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-json2csv/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-json2csv%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-json2csv/build/test-report.html](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-json2csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-json2csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-json2csv/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Mirco Zeiss",
-        "email": "mirco.zeiss@gmail.com"
+        "name": "Mirco Zeiss"
     },
     "bin": {
         "json2csv": "./bin/json2csv.js"
@@ -80,22 +88,18 @@
     "main": "./lib/json2csv.js",
     "maintainers": [
         {
-            "name": "azhang",
-            "email": "azhang@bottlenose.com"
+            "name": "azhang"
         },
         {
-            "name": "knownasilya",
-            "email": "ilya@burstcreations.com"
+            "name": "knownasilya"
         },
         {
-            "name": "zemirco",
-            "email": "mirco.zeiss@gmail.com"
+            "name": "zemirco"
         }
     ],
     "name": "json2csv",
     "optionalDependencies": {},
     "preferGlobal": "true",
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/zemirco/json2csv.git"

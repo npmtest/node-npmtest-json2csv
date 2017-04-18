@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme) [![npm package](https://img.shields.io/npm/v/npmtest-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json2csv.svg)](https://travis-ci.org/npmtest/node-npmtest-json2csv)",
+    "description": "#### test coverage for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json2csv.svg)](https://travis-ci.org/npmtest/node-npmtest-json2csv)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "json2csv": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
