@@ -1,6 +1,6 @@
 # npmtest-json2csv
 
-#### test coverage for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json2csv.svg)](https://travis-ci.org/npmtest/node-npmtest-json2csv)
+#### basic test coverage for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-json2csv.svg)](https://travis-ci.org/npmtest/node-npmtest-json2csv)
 
 #### Convert JSON to CSV
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-json2csv/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-json2csv/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json2csv/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json2csv/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-json2csv/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-json2csv/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-json2csv/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-json2csv/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-json2csv/build/coverage.html/index.html)
 
